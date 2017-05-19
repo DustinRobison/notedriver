@@ -1,0 +1,7 @@
+{
+  "name": "notedriver",
+  "short_name": "notedriver",
+  "description": "Provide a board for tracking progress of things.",
+  "start_url": "/",
+  "display": "standalone"
+}
